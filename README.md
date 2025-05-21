@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm vgtom</h1>
+<h3 align="center">A French Developer</h3>
 
-<!--
-**vgtom4/vgtom4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vgtom4" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vgtom4&show_icons=true&theme=dark&custom_title=vgtom%27s%20GitHub%20Stats" alt="vgtom GitHub Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgtom4&hide_progress=true&langs_count=6&layout=compact&theme=dark" alt="Top Languages" />
+</p>
